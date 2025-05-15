@@ -1,11 +1,11 @@
 {
     "id": "DEE50C10",
-    "path": null,
-    "project_path": null,
+    "path": "~/Rexercicis/ExercicisR.R",
+    "project_path": "ExercicisR.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "388050680",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1747320831406.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "12,0",
-        "scrollLine": "0"
+        "cursorPosition": "49,97",
+        "scrollLine": "34"
     },
     "folds": "",
-    "lastKnownWriteTime": 0,
-    "encoding": "",
+    "lastKnownWriteTime": 1747322155,
+    "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1747320962654,
+    "last_content_update": 1747322155747,
     "read_only": false,
     "read_only_alternatives": []
 }
