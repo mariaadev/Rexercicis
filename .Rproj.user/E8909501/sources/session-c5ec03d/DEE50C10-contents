@@ -1,0 +1,18 @@
+#Author : Maria Amzil
+#Date : 15/05/2025
+#Description: xercicis (projecte en R-studio amb menú per provar les funcions)
+
+#funció que em determina si un nombre és primer
+
+suma<-function(n1, n2){
+  resultat<-n1+n2
+  return(resultat)
+}
+result<-suma(8,1)
+result
+
+#funció recursiva del càlcul de factorial
+#funció que m'indica si dos nombres són amics
+#funció que m'indica si un nombre és perfecte
+
+
